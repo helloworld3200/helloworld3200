@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helloworld3200;
-- 👀 I’m interested in game deisgn;
-- 🌱 I’m currently learning C#;
+- 👀 I’m interested in web development;
+- 🌱 I’m currently learning NodeJS backend;
 - 💞️ I’m not looking to collaborate; This is just my account for personal projects!
 - 📫 Reach me via pull requests on this repo.
