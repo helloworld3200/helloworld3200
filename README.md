@@ -4,7 +4,7 @@
 
 _Currently Learning_: Unity
 
-### Contact me through Twitter/X
+### Contact me through Twitter/X (@Millionth_user)
 
 ## About Me
 Hello, I am a student in the UK, currently in secondary school (high school). I have been programming since I was 7, and I have worked in several languages and frameworks (more about this later).
