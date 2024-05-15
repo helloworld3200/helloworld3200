@@ -1,6 +1,6 @@
 # helloworld3200
 
-> Secondary/middle school student based in the UK. My hobby is programming.
+> High school student in the UK. My hobby (and hopefully future career :) is programming.
 
 _Currently Learning_: Unity
 
