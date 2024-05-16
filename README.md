@@ -54,6 +54,6 @@ _Many of the projects I do are not public/on my profile._
 > Save Commit Sync: All in one button!  
 > [![Repository](https://badgen.net/badge/repo/save-commit-sync/black?icon=github)](https://github.com/helloworld3200/save-commit-sync)
 > [![Marketplace](https://badgen.net/badge/vscode-marketplace/save-commit-sync/blue?icon=visualstudio)](https://marketplace.visualstudio.com/items?itemName=helloworld3200.save-commit-sync)
-> ![Installs](https://badgen.net/badge/installs/390/blue?icon=visualstudio)
+> ![Installs](https://badgen.net/badge/installs/689/blue?icon=visualstudio)
 
-_Last Updated: 2023-11-04_
+_Last Updated: 2024-05-16_
