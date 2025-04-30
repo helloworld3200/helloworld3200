@@ -1,6 +1,6 @@
 # helloworld3200
 
-> High school student in the UK. My hobby (and hopefully future career :) is programming.
+> High school student in the UK.
 
 ### Contact me through helloworld32.tech@gmail.com
 
