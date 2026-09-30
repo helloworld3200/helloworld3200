@@ -18,4 +18,6 @@ Webdev with react; 3D rendering with unity; shader dev with HLSL; backend apps w
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=helloworld3200&custom_title=helloworld3200%20on%20GitHub&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=helloworld3200&custom_title=helloworld3200%20on%20GitHub&show_icons=true&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=helloworld3200&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=helloworld3200&langs_count=4&theme=transparent)
+
 _Last Updated: 2026-09-29_
