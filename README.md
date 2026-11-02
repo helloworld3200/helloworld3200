@@ -20,4 +20,6 @@ Webdev with react; 3D rendering with unity; shader dev with HLSL; backend apps w
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=helloworld3200&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=helloworld3200&langs_count=4&theme=transparent)
 
+[![Time on GitHub](https://raw.githubusercontent.com/helloworld3200/chronobadge/refs/heads/main/out/badge.png)](https://github.com/helloworld3200/chronobadge)
+
 _Last Updated: 2026-09-29_
